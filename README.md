@@ -1,7 +1,7 @@
 # Tertial Planning:
 Currently, we're creating an OKR (Objectives and Key Results) table for the entire German BU-Dev team. So we will starting next Tertial, there will be a German OKR table and a seprate Bosnian OKR table. 
 
-**OKR tables from us (German Dev BU) from this Tertial, for you as an example:**
+**Our OKR tables (German Dev BU) from this Tertial, for you as an example:**
 
 ![This is an image]( ./german_okr_table.png "german okr table")
 
