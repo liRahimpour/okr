@@ -1,11 +1,11 @@
 # Tertial Planning:
-Currently, we're creating an OKR (Objectives and Key Results) table for the entire German BU-Dev team. So we will starting next Tertial, there will be a German OKR table and a seprate Bosnian OKR table. 
+Currently, we have an OKR (Objectives and Key Results) table for the entire German BU-Dev team. So we will starting next Tertial, there will be a German OKR table and a seprate Bosnian OKR table. 
 
-**Our OKR tables (German Dev BU) from this Tertial, for you as an example:**
+**Our OKR tables (German Dev BU okr table) from this Tertial, for you as an example:**
 
 ![This is an image]( ./german_okr_table.png "german okr table")
 
-The planning process in January includes four main meetings:
+Our planning process in January includes four main meetings:
 
 ## 1. BU-Lead OKR-Set Review:
 - **Purpose:** This meeting is exclusively for the BU-Lead (in our case, Alex) and the OKR Master. It serves as a deadline for Alex to present his OKR set that he has already defined.
@@ -23,7 +23,11 @@ The planning process in January includes four main meetings:
 
 ## 3. BU OKR Planning:
 - **Purpose:** All BU members are involved in this meeting. It starts with Alex presenting the OKR sets that were already reviewed in the first meeting (BU-Lead OKR-Set Review). Alex presents his OKRs, and any questions are clarified.
-- **Process:** There's a sort of brainstorming where all participants note down ideas, challenges, and required technologies on a collaborative board like Conceptboard. The points are categorized and discussed to identify potential Objectives and Key Results. I usually give people about 15 minutes to write down their ideas and points, then everyone explains their point, and we can categorize them. For example, one writes that we need a learning path for Scrum, another writes that we need Spring Boot certifications, and another had a problem that they lack an example Angular Project to quickly initialize a new project. All these can belong to the Education category or whatever one wants to call it, and from this, the following key results can be created:
+- **Process:** There's a sort of brainstorming where all participants note down ideas, challenges, and required technologies on a collaborative board like [Conceptboard](https://conceptboard.com/de/). The points are categorized and discussed to identify potential Objectives and Key Results. I usually give people about 15 minutes to write down their ideas and points, then everyone explains their point, and we can categorize them.
+
+[This is an image]( ./conceptboard.png")
+
+- For example, one writes that we need a learning path for Scrum, another writes that we need Spring Boot certifications, and another had a problem that they lack an example Angular Project to quickly initialize a new project. All these can belong to the Education category or whatever one wants to call it, and from this, the following key results can be created:
     - **Example Objective:** "We improve technical competencies and efficiency in project initialization."
     - **Example Key Results:**
         1. "Creation of a learning path for Scrum and publication on Sharepoint."
@@ -31,6 +35,7 @@ The planning process in January includes four main meetings:
         3. "Creation and publication of a standardized Angular project template on GitHub."
       
     ![This is an image]( ./BU_OKR_Planing.png "BU OKR Planning")
+  
 ## 4. Marketplace:
 - **Purpose:** All BU members are present, and the OKR table is completed, usually with an OKR set from Alex and additional sets defined in the previous meeting.
 - **Process:** In this meeting, individuals are assigned to Key Results, either voluntarily or by assignment.
@@ -43,3 +48,5 @@ The planning process in January includes four main meetings:
 **Overview of our meetings and when they take place:**
 
 ![This is an image]( ./general_overview_Meetings_jan.png "Overview of our meetings")
+
+**Overview of our meetings and when they take place:**
