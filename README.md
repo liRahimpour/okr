@@ -25,7 +25,11 @@ Our planning process in January includes four main meetings:
 - **Purpose:** All BU members are involved in this meeting. It starts with Alex presenting the OKR sets that were already reviewed in the first meeting (BU-Lead OKR-Set Review). Alex presents his OKRs, and any questions are clarified.
 - **Process:** There's a sort of brainstorming where all participants note down ideas, challenges, and required technologies on a collaborative board like [Conceptboard](https://conceptboard.com/de/). The points are categorized and discussed to identify potential Objectives and Key Results. I usually give people about 15 minutes to write down their ideas and points, then everyone explains their point, and we can categorize them.
 
+**This is a picture from the end of one of our planning meetings, which was done together in Conceptboard. as example**
+
   ![This is an image]( ./conceptboard.png "conceptboard")
+
+  [Link to my public board, as an example for you:](https://app.conceptboard.com/board/ek7o-noq0-ec7b-xcc5-mbuu)
 
 - For example, one writes that we need a learning path for Scrum, another writes that we need Spring Boot certifications, and another had a problem that they lack an example Angular Project to quickly initialize a new project. All these can belong to the Education category or whatever one wants to call it, and from this, the following key results can be created:
     - **Example Objective:** "We improve technical competencies and efficiency in project initialization."
@@ -49,4 +53,4 @@ Our planning process in January includes four main meetings:
 
 ![This is an image]( ./general_overview_Meetings_jan.png "Overview of our meetings")
 
-**Overview of our meetings and when they take place:**
+
