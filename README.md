@@ -1,5 +1,7 @@
 # Tertial Planning:
-Currently, we have an OKR (Objectives and Key Results) table for the entire German BU-Dev team. So we will starting next Tertial, there will be a German OKR table and a seprate Bosnian OKR table. 
+This is a summary of how I designed the process. As you can see, the way I do it deviates a bit from the OKR guideline, but nothing fundamental has been changed. So, you can tailor your process in detail as it suits you. I would recommend that you just do the first tertial and not worry too much about it being perfect; see how it goes and then adjust the process during the next planning. You will also have retros and reviews later where you can adapt and improve the process.
+
+Currently, we have an OKR (Objectives and Key Results) table for the entire German BU-Dev team. So we will starting next Tertial, there will be a German OKR table and a seprate Bosnian OKR table.
 
 **Our OKR tables (German Dev BU okr table) from this Tertial, for you as an example:**
 
@@ -53,4 +55,4 @@ Our planning process in January includes four main meetings:
 
 ![This is an image]( ./general_overview_Meetings_jan.png "Overview of our meetings")
 
-
+---
