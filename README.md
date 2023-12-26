@@ -1,5 +1,8 @@
 # Tertial Planning:
-Currently, we're creating an OKR (Objectives and Key Results) table for the entire German BU-Dev team. We will also have a table for Bosnia. The planning process in January includes four main meetings:
+Currently, we're creating an OKR (Objectives and Key Results) table for the entire German BU-Dev team. So we will starting next Tertial, there will be a German OKR table and a seprate Bosnian OKR table. 
+OKR tables from us (German Dev BU) from this Tertial.
+  ![This is an image]( ./german_okr_table.png "german okr table")
+The planning process in January includes four main meetings:
 
 ## 1. BU-Lead OKR-Set Review:
 - **Purpose:** This meeting is exclusively for the BU-Lead (in our case, Alex) and the OKR Master. It serves as a deadline for Alex to present his OKR set that he has already defined.
